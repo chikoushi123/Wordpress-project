@@ -28,7 +28,7 @@ The design focuses on clear user guidance, smooth navigation, and a modern tech-
 <img width="2048" height="1028" alt="image" src="https://github.com/user-attachments/assets/8f3e2204-6d07-40a8-bfba-7526539761ad" />
 
 👉 Project files / package:  
-https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCbTOsswBj7TpnBhM5nkL-nAddQMGyRUEROjsCJs9sRjJU?e=ckrHC6
+https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCqP-sBI0hDSIJvkHOOdYH0AdarXYLCyP8oTJ4ykSy-2jc?e=Ba0O6C
 
 ---
 
