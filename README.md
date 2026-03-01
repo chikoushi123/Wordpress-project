@@ -16,6 +16,7 @@ The goal was to create a modern, structured and clear interface that communicate
 <img width="2498" height="1213" alt="image" src="https://github.com/user-attachments/assets/bb765935-4947-49e4-ab26-9f01285190a8" />
 👉 Link:  
 https://www.davidli.info
+
 👉 Project files / package:  
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQC1ncgrqB9GTKu_o4YK1LzvARES7IJEXIW0SEjN6n-7Y7s?e=UaAm6D
 
