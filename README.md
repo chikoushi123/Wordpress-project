@@ -38,6 +38,7 @@ Website concept for a guitar builder and repair service.
 
 The project focuses on professionalism, trust and craftsmanship.  
 Clear information, calm design and structured presentation help customers understand services and processes.
+<img width="2399" height="1206" alt="image" src="https://github.com/user-attachments/assets/22aaab88-70c0-4063-9aed-52159a78a30d" />
 
 👉 Project files / package:  
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCbTOsswBj7TpnBhM5nkL-nAddQMGyRUEROjsCJs9sRjJU?e=ckrHC6
