@@ -44,8 +44,8 @@ Clear information, calm design and structured presentation help customers unders
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCbTOsswBj7TpnBhM5nkL-nAddQMGyRUEROjsCJs9sRjJU?e=ckrHC6
 
 ---
-### Martin – Guitar Workshop Website
-Website concept for a guitar builder and repair service.
+### Rheinvalley - Wine website
+
 
 This project is a front-end website built to present German wineries and wine-related content in a structured and visually refined way.
 It focuses on responsive design, layout composition, typography, and content-driven UI sections.
