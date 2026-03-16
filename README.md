@@ -44,6 +44,19 @@ Clear information, calm design and structured presentation help customers unders
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCbTOsswBj7TpnBhM5nkL-nAddQMGyRUEROjsCJs9sRjJU?e=ckrHC6
 
 ---
+### Martin – Guitar Workshop Website
+Website concept for a guitar builder and repair service.
+
+This project is a front-end website built to present German wineries and wine-related content in a structured and visually refined way.
+It focuses on responsive design, layout composition, typography, and content-driven UI sections.
+The project demonstrates practical implementation of modern web design principles for branding and presentation.
+It is intended as a portfolio project for showcasing front-end and interface design skills.
+<img width="2482" height="1169" alt="Image" src="https://github.com/user-attachments/assets/eefe9a7e-17ed-41cf-9b3c-c53e3865f2d3" />
+<img width="2524" height="1002" alt="Image" src="https://github.com/user-attachments/assets/6be7c8c1-f0f8-4b6b-b8b2-2d9f66ec06b2" />
+👉 Project files / package:  
+x
+
+---
 
 ## My Role
 Concept development, UI/UX design, layout structure and WordPress implementation.
